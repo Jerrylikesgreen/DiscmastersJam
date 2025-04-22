@@ -1,0 +1,5 @@
+[gd_resource type="Theme" format=3 uid="uid://sbhohb6wyk4b"]
+
+[resource]
+Button/constants/icon_max_width = 90
+HBoxContainer/constants/separation = 5
