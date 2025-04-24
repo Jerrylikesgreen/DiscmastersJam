@@ -1,6 +1,6 @@
 [gd_scene load_steps=3 format=3 uid="uid://cj8k51y7ul2e2"]
 
-[ext_resource type="Theme" uid="uid://sbhohb6wyk4b" path="res://Resources/defualt.tres" id="1_l5yow"]
+[ext_resource type="Theme" uid="uid://sbhohb6wyk4b" path="res://Resources/default_resource.tres" id="1_l5yow"]
 [ext_resource type="Texture2D" uid="uid://cpkw6v6mfkf3v" path="res://Assets/icon.svg" id="2_hvfr4"]
 
 [node name="HBoxContainer" type="HBoxContainer"]
