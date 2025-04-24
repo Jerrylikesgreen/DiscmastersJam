@@ -1,0 +1,24 @@
+[gd_scene load_steps=2 format=3 uid="uid://c4alk8goroh1x"]
+
+[ext_resource type="Script" uid="uid://ddricdyi041s" path="res://Scripts/dialog.gd" id="1_7voku"]
+
+[node name="Dialog" type="RichTextLabel"]
+anchors_preset = -1
+anchor_right = 1.0
+anchor_bottom = 0.189
+offset_right = 2.0
+offset_bottom = 9.52799
+grow_horizontal = 2
+text = "Test
+"
+script = ExtResource("1_7voku")
+
+[node name="ColorRect" type="ColorRect" parent="."]
+layout_mode = 1
+anchors_preset = -1
+anchor_right = 1.0
+anchor_bottom = 1.015
+offset_right = 2.0
+offset_bottom = 0.019989
+grow_horizontal = 2
+color = Color(0.441, 0.7, 0.50575, 0.192157)
